@@ -40,6 +40,3 @@ node server.js
 curl -X POST http://localhost:3001/mint \
 -H "Content-Type: application/json" \
 -d '{"walletAddress":"0x..."}'
-=======
-# Interview
->>>>>>> 7b95fb98ff33a8eba85e9f742943db6c618a9056
